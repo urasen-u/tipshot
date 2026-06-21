@@ -19,9 +19,6 @@
 ・Editor拡張の実装
 Editor拡張を用いて配置した敵のリセットなどを効率的に行うことが出来るようになりました。
 
-↓他のプロジェクト↓
-
-https://github.com/urasen-u/riddle-dungeon
 
 ・ヒットストップの実装
 敵に攻撃が当たったときのヒットストップを実装することに成功しました。
@@ -29,3 +26,9 @@ https://github.com/urasen-u/riddle-dungeon
 
 ・攻撃時の演出の実装
 攻撃がヒットした時にエフェクトが発生し、より戦闘を描写を豪華にすることが出来ました。
+
+↓他のプロジェクト↓
+
+https://github.com/urasen-u/riddle-dungeon
+
+https://github.com/urasen-u/primenum-shoot
